@@ -1,0 +1,60 @@
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\bin\Debug\Server.exe.config
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\bin\Debug\Server.exe
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\bin\Debug\Server.pdb
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\bin\Debug\Common.dll
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\bin\Debug\Common.pdb
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\obj\Debug\Server.exe
+C:\Users\danieladc\source\repos\MultiplayerServer\Server\obj\Debug\Server.pdb
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\obj\Debug\Server.exe
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\obj\Debug\Server.pdb
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\bin\Debug\Server.exe.config
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\bin\Debug\Server.exe
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\bin\Debug\Server.pdb
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\bin\Debug\Common.dll
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\bin\Debug\Common.pdb
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v1\MultiplayerServer\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\bin\Debug\Server.exe.config
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\bin\Debug\Server.exe
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\bin\Debug\Server.pdb
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\bin\Debug\Common.dll
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\bin\Debug\Common.pdb
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\obj\Debug\Server.exe
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Server\obj\Debug\Server.pdb
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\bin\Debug\Server.exe.config
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\bin\Debug\Server.exe
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\bin\Debug\Server.pdb
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\bin\Debug\Common.dll
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\bin\Debug\Common.pdb
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\obj\Debug\Server.exe
+C:\Users\Pedro Rua\Desktop\MultiplayerUnity_vf\MultiplayerServer\Server\obj\Debug\Server.pdb
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\bin\Debug\Server.exe.config
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\bin\Debug\Server.exe
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\bin\Debug\Server.pdb
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\bin\Debug\Common.dll
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\bin\Debug\Common.pdb
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\obj\Debug\Server.exe
+C:\Users\Pedro Rua\Desktop\MultiplayerServer\Server\obj\Debug\Server.pdb
